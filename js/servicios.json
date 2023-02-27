@@ -1,0 +1,86 @@
+[
+  {
+    "id": "capacitaciones-01",
+    "titulo": "Primeros auxilios",
+    "imagen": "./imagenes/capacitaciones/primeros_auxilios.png",
+    "categoria": "capacitaciones",
+    "precio": 500
+  },
+  {
+    "id": "capacitaciones-02",
+    "titulo": "Habitos saludables",
+    "imagen": "./imagenes/capacitaciones/habitos_saludables.png",
+    "categoria": "capacitaciones",
+    "precio": 500
+  },
+  {
+    "id": "capacitaciones-03",
+    "titulo": "ETS",
+    "imagen": "./imagenes/capacitaciones/ets.png",
+    "categoria": "capacitaciones",
+    "precio": 500
+  },
+  {
+    "id": "capacitaciones-04",
+    "titulo": "Dengue",
+    "imagen": "./imagenes/capacitaciones/dengue.png",
+    "categoria": "capacitaciones",
+    "precio": 500
+  },
+  {
+    "id": "asesoramientos-05",
+    "titulo": "Medicina del viajero",
+    "imagen": "./imagenes/asesoramientos/medicina_del_viajero.png",
+    "categoria": "asesoramientos",
+    "precio": 1500
+  },
+  {
+    "id": "asesoramientos-06",
+    "titulo": "Control de infecciones",
+    "imagen": "./imagenes/asesoramientos/control_de_infecciones.png",
+    "categoria": "asesoramientos",
+    "precio": 1500
+  },
+  {
+    "id": "asesoramientos-07",
+    "titulo": "Medicina laboral",
+    "imagen": "./imagenes/asesoramientos/medicina_laboral.png",
+    "categoria": "asesoramientos",
+    "precio": 1500
+  },
+  {
+    "id": "asesoramientos-08",
+    "titulo": "Consulta endocrinologia",
+    "imagen": "./imagenes/asesoramientos/consultas_endocrinologicas.png",
+    "categoria": "asesoramientos",
+    "precio": 1500
+  },
+  {
+    "id": "protocolos-09",
+    "titulo": "Prevencion de enfermedades",
+    "imagen": "./imagenes/protocolos/protocolos.png",
+    "categoria": "protocolos",
+    "precio": 300
+  },
+  {
+    "id": "protocolos-10",
+    "titulo": "COVID-19",
+    "imagen": "./imagenes/protocolos/protocolos.png",
+    "categoria": "protocolos",
+    "precio": 300
+  },
+  {
+    "id": "protocolos-11",
+    "titulo": "Area segura",
+    "imagen": "./imagenes/protocolos/protocolos.png",
+    "categoria": "protocolos",
+    "precio": 300
+  },
+  {
+    "id": "protocolos-12",
+    "titulo": "Contencion de brotes",
+    "imagen": "./imagenes/protocolos/protocolos.png",
+    "categoria": "protocolos",
+    "precio": 300
+  }
+]
